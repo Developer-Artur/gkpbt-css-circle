@@ -7,3 +7,7 @@
 			height:300px;
             border: 1px solid green;
 }
+.red{
+    background-color: red;
+    color: white;
+}
